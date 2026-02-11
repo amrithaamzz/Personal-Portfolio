@@ -2,7 +2,6 @@
 
 # Personal Portfolio
 
-A personal portfolio website built using HTML to showcase my profile, technical skills, education, and projects as I progress in my web development journey.
 
 ## Overview
 
