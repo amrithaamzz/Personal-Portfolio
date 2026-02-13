@@ -2,6 +2,7 @@
 
 # Personal Portfolio
 
+This is a simple personal portfolio website built using HTML. It showcases my profile, contact information, education, skills, and projects as I learn web Development.
 
 ## Overview
 
@@ -80,7 +81,7 @@ Tabular representation of academic background.
 
 ## Project Purpose
 
-This portfolio was developed as part of my learning process in MERN Stack Development. It demonstrates foundational knowledge of HTML structure and webpage organization.
+This portfolio was developed as part of my learning process in web page Development. It demonstrates foundational knowledge of HTML structure and webpage organization.
 
 ---
 
