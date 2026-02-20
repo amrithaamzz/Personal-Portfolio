@@ -17,6 +17,7 @@ This project is a structured personal portfolio webpage designed to present:
 The goal of this project is to practice core HTML fundamentals while building a clean and organized personal portfolio layout.
 
 ---
+[live]( https://amrithaamzz.github.io/Personal-Portfolio/)
 
 ![image](img1.png)
 
